@@ -81,6 +81,7 @@ ol {
 
 .search-form__fieldset {
   border: none;
+  height: 54px;
 }
 
 .search-form__fieldset-title {
@@ -91,7 +92,6 @@ ol {
   font-weight: 400;
   line-height: normal;
   margin-bottom: 5px;
-  min-height: 22px;
 }
 
 .search-form__label {
